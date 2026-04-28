@@ -21,10 +21,4 @@ React, JavaScript, CSS-in-JS
 npm install
 npm start
 
-## Contexte
 
-Ce prototype répond directement aux missions décrites dans l'offre CIM :
-repérage des espaces vélo à quai, prévision de l'affluence vélo, 
-informations pratiques pour les cyclistes.
-
-Développé par Chahinez Azrarak — chahinez-portfolio.vercel.app
